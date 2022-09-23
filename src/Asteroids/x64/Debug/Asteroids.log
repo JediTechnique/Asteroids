@@ -1,0 +1,17 @@
+﻿  Source.cpp
+D:\C++ projects\Asteroids\Asteroids\sprites.h(7,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\C++ projects\Asteroids\Asteroids\sprites.h(187,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\C++ projects\Asteroids\Asteroids\sprites.h(188,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\C++ projects\Asteroids\Asteroids\sprites.h(188,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\C++ projects\Asteroids\Asteroids\sprites.h(191,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\C++ projects\Asteroids\Asteroids\sprites.h(204,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\C++ projects\Asteroids\Asteroids\sprites.h(205,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\C++ projects\Asteroids\Asteroids\sprites.h(205,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\C++ projects\Asteroids\Asteroids\sprites.h(223,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\C++ projects\Asteroids\Asteroids\sprites.h(286,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\C++ projects\Asteroids\Asteroids\sprites.h(296,1): warning C4305: '-=': truncation from 'double' to 'float'
+D:\C++ projects\Asteroids\Asteroids\Source.cpp(111,21): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+D:\C++ projects\Asteroids\Asteroids\Source.cpp(147,21): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+D:\C++ projects\Asteroids\Asteroids\Source.cpp(183,21): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+D:\C++ projects\Asteroids\Asteroids\Source.cpp(219,21): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+  Asteroids.vcxproj -> D:\C++ projects\Asteroids\x64\Debug\Asteroids.exe
